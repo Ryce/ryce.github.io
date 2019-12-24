@@ -341,7 +341,7 @@ button:focus {
   display: none;
   position: fixed;
   bottom: 18px;
-  right: 15px;
+  left: 15px;
   width: 45px;
   height: 45px;
   line-height: 50px;
