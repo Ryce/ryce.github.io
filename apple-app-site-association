@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "7CY869E3CJ.com.koia.Koia" ],
+             "components": [
+               {
+                  "/": "/*",
+                  "comment": "Matches any URL whose path starts with /"
+               }
+             ]
+           }
+       ]
+   }
+}
